@@ -1,4 +1,4 @@
-# SnapClass - AI Attendance Project Landing Page
+# SnapClass - AI Attendance Project 
 
 Welcome to the landing page repository for **SnapClass**, an AI-powered attendance system. This project serves as the marketing and informational frontend, showcasing the features and flows for both students and teachers using the application.
 
